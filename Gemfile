@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+gem "will_paginate"
 
 group :production do
   gem "pg"
